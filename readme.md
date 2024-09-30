@@ -24,4 +24,4 @@ docker run testdocker
 
 If all went well, you should see:
 
-$${\color{lightgreen}Hello \space \color{blue}World\color{green}!$$
+$${\color{lightgreen}Hello \space \color{blue}World\color{green}!}$$
