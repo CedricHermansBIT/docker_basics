@@ -23,4 +23,5 @@ docker run testdocker
 ```
 
 If all went well, you should see:
-<span style="color:green">Hello</span> <span style="color:blue">World</span><span style="color:green">!</span>
+
+$${\color{lightgreen}Hello \space \color{blue}World\color{green}!$$
